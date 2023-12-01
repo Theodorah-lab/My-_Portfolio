@@ -88,7 +88,7 @@ hr{
 
 }
 .f-link{
-  color: orange;
+  color:#3282b8;
   text-decoration: none;
 }
 
@@ -264,7 +264,7 @@ ul li a:hover{
 .project1{
   width: 100%;
   height: auto;
-  background: #31355b;
+  background: #5fa0ba;
 }
 .content{
   width: 50%;
@@ -278,7 +278,7 @@ ul li a:hover{
 }
 .mainbtn{
   color: #fff;
-  background: #4299ed;
+  background: #333b44;
   border-radius: 30px;
   padding: 16px 86px;
   text-align: center;
@@ -291,60 +291,11 @@ ul li a:hover{
   margin-bottom: 40px;
 }
 .mainbtn:hover{
-  color:#fff;
-  background: #1680e6;
+  color:black;
+  background: white;
 }
-.btn2{
-	background: #005361;
-}
-.btn2:hover{
-	background: #00272e;
-}
-.btn3{
-	color: #8c6c07;
-    background: #fae298;
-}
-.btn3:hover{
-	background: #f8d467;
-	color: #8c6c07;
-}
-.btn4{
-  background: #2b3d51;
-}
-.btn4:hover{
-  background: #192430;
-}  
-.btn5{
-  background: #374760;
-}
-.btn5:hover{
-  background: #242f40;
-}
-.project2{
-  width: 100%;
-  height: auto;
-  background: #f8c687;
-}
-.project3{
-	width: 100%;
-    height: auto;
-	background: #21364b;
-}
-.project4{
-  width: 100%;
-  height: auto;
-  background: #7dcc93;
-}
-.project5{
-  width: 100%;
-  height: auto;
-  background: #f76160;
-}
-.project6{
-  width: 100%;
-  height: auto;
-  background: #c7a8c7;
-}
+
+
 .contact-me{
 	width: 50%;
 	margin-left: 25%;
